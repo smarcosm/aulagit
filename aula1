@@ -1,0 +1,6 @@
+Criando chave ssh no github
+	excutar os comandos
+
+1 -> git config --global user.name "seu username"
+
+2 -> git config --global user.email "seu email usado no github" 
